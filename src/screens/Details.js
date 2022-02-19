@@ -5,7 +5,7 @@ import React from 'react'
 export default function Details() {
   return (
     <View>
-      <Text>Details</Text>
+      <Text>Details Screen</Text>
     </View>
   )
 }

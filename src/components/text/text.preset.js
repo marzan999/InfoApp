@@ -1,9 +1,9 @@
-import { colors } from '../../theme/colors'
+import { colors } from '../../theme/color'
 import { typography } from '../../theme/typography'
 
 const BASE = {
     fontFamily: typography.primary,
-    fontSise: 14, 
+    fontSize: 14, 
     color: colors.black
 }
 const BASE_BOLD = {

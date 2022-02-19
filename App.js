@@ -1,9 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react'
 import { ActivityIndicator, StyleSheet, View } from 'react-native';
-// import { colors } from './src/theme/color'
-// import { spacing } from './src/theme/spacing'
-// import { typography } from './src/theme/typography'
+import { colors } from './src/theme/color'
+import { spacing } from './src/theme/spacing'
+import { typography } from './src/theme/typography'
 import { useFonts } from 'expo-font'
 import Text from './src/components/text/text'
 import { NavigationContainer } from '@react-navigation/native';
